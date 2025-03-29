@@ -1,0 +1,1 @@
+Data for the project is located at: https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset
